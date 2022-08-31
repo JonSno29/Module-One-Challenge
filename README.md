@@ -2,7 +2,8 @@
 
 
 ## OVERVIEW:
-Over the course of a few days, my focus was to add semantic elements to the Index.HTML. The elements helped me build this project to test out my skills as a new Developer, Learning this helped me become more efficient as a Web Developer. As of now, my project probably will not stand out, i'm new to Coding and new to computers.
+
+I am a motivated Coding Bootcamp student learning skills to become successful in the real world. In this challenge, I will be applying my new HTML and CSS skills to ensure that an existing web page is accessible.
 
 ### LIVE LINK:
 
@@ -18,6 +19,8 @@ https://jonsno29.github.io/Module-One-Challenge/
 
 ## CREDITS:
 
+Thank you for the Starter Code.
+
 https://github.com/coding-boot-camp/urban-octo-telegram.git## 
 
 # LICENSE:
@@ -27,6 +30,9 @@ MIT LICENSE
 ## FEATURES:
 
 ## HOW TO CONTRIBUTE:
+
+Fork my repositories so I can fork yours:
+
 
 By creating a more effecient code than the previous owner.
 
