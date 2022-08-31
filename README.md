@@ -14,7 +14,9 @@ Over the course of a few days, my focus was to add semantic elements to the Inde
 
 ## CREDITS:
 
-## LICENSE:
+https://github.com/coding-boot-camp/urban-octo-telegram.git## 
+
+# LICENSE:
 
 MIT LICENSE
 
