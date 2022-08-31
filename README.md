@@ -24,3 +24,10 @@ By creating a more effecient code than the previous owner.
 
 ## TESTS:
 
+ https://github.com/JonSno29/HoriseonChallenge.git
+ 
+ https://github.com/JonSno29/Horiseon-1.git
+ 
+ https://github.com/JonSno29/Horiseon.git
+ 
+ I tested on three different repositories.
