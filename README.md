@@ -1,2 +1,18 @@
-# Module-One-Challenge
-First Module Challenge
+ # MODULE-ONE-CHALLENGE
+
+
+## THE FIRST MODULE CHALLENGE OF CODING BOOTCAMP
+
+## INSTALLATION:
+
+## USAGE:
+
+## CREDITS:
+
+## LICENSE:
+
+## FEATURES:
+
+## HOW TO CONTRIBUTE:
+
+## TESTS:
