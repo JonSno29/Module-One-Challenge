@@ -12,11 +12,17 @@ https://jonsno29.github.io/Module-One-Challenge/
 ## INSTALLATION & USAGE:
 
 🎗 Google Chrome
+
 🎗 Chrome DevTools
+
 🎗 Terminal
+
 🎗 Git
+
 🎗 GitHub
+
 🎗 GitHub Pages
+
 🎗 Visual Studio (VS) Code  
  
  https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
@@ -36,9 +42,14 @@ MIT LICENSE
 ## FEATURES:
 
 🎗 Uses, color, contrast and space.
+
 🎗 Acessable design.
+
 🎗 Visually appealing.
-🎗These features enhance user experience.
+
+🎗 Uses feature to jump from link to link.
+
+🎗 These features enhance user experience.
 
 ## HOW TO CONTRIBUTE:
 
