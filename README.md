@@ -3,17 +3,23 @@
 
 ## OVERVIEW:
 
-I am a motivated Coding Bootcamp student learning skills to become successful in the real world. In this challenge, I will be applying my new HTML and CSS skills to ensure that an existing web page is accessible.
+I am a motivated Coding Bootcamp student learning skills to become successful in the real world. In this challenge, I will be applying my new HTML and CSS skills to ensure that an existing web page is accessible, Being able to cater to all users is my top priority.
 
 ### LIVE LINK:
 
 https://jonsno29.github.io/Module-One-Challenge/
 
-## INSTALLATION:
+## INSTALLATION & USAGE:
+
+🎗 Google Chrome
+🎗 Chrome DevTools
+🎗 Terminal
+🎗 Git
+🎗 GitHub
+🎗 GitHub Pages
+🎗 Visual Studio (VS) Code  
  
  https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
-
-## USAGE:
 
 ![Screen Shot 2022-08-30 at 11 44 17 PM copy](https://user-images.githubusercontent.com/109987633/187611553-10181f29-d2f0-43e1-8444-455eb8bf9f9a.png)
 
@@ -29,12 +35,18 @@ MIT LICENSE
 
 ## FEATURES:
 
+🎗 Uses, color, contrast and space.
+🎗 Acessable design.
+🎗 Visually appealing.
+🎗These features enhance user experience.
+
 ## HOW TO CONTRIBUTE:
 
 Fork my repositories so I can fork yours:
 
+https://github.com/JonSno29/JonSno29.git
 
-By creating a more effecient code than the previous owner.
+Use the "scout rule" to help others.
 
 ## TESTS:
 
