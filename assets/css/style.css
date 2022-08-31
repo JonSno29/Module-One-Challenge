@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* Removed (.) Class */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,7 +23,7 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
-
+/* Remove div and add nav to navigate */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -86,7 +86,7 @@ p {
     background-color: #2589bd;
 }
 
-
+/* Removed lead, brand, cost to consolidate class */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
