@@ -39,7 +39,7 @@ THEN I find a concise, descriptive title
 
 https://jonsno29.github.io/Module-One-Challenge/
 
-## INSTALLATION & USAGE:
+## INSTALLATION, USAGE & MOCK-UP:
 
 🎗 Google Chrome
 
