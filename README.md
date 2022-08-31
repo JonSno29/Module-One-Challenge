@@ -3,7 +3,7 @@
 
 ## OVERVIEW:
 
-I am a motivated Coding Bootcamp student learning skills to become successful in the real world. In this challenge, I will be applying my new HTML and CSS skills to ensure that an existing web page is accessible, Being able to cater to all users is my top priority.
+I am a motivated Coding Bootcamp student learning skills to become successful in the real world. In this challenge, I will be applying my new HTML and CSS skills to refactor an existing web page. The refactoring will result in improved accessibility and will optimize the page for search engines. Also, these changes will not change the display of the web page; Only the underlying code.
 
 ## LIVE LINK:
 
@@ -23,11 +23,13 @@ https://jonsno29.github.io/Module-One-Challenge/
 
 🎗 GitHub Pages
 
-🎗 Visual Studio (VS) Code  
- 
- https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+🎗 Visual Studio (VS) Code 
 
-![Screen Shot 2022-08-30 at 11 44 17 PM copy](https://user-images.githubusercontent.com/109987633/187611553-10181f29-d2f0-43e1-8444-455eb8bf9f9a.png)
+🎗 HTML
+
+🎗 CSS
+ 
+ ![image](https://user-images.githubusercontent.com/109987633/187762065-46b2b8bf-89dd-4db7-937f-2f71e809b1db.png)
 
 ## CREDITS:
 
