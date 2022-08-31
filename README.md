@@ -10,6 +10,8 @@ Over the course of a few days, my focus was to add semantic elements to the Inde
 
 ## USAGE:
 
+![Screen Shot 2022-08-30 at 11 44 17 PM copy](https://user-images.githubusercontent.com/109987633/187611553-10181f29-d2f0-43e1-8444-455eb8bf9f9a.png)
+
 ## CREDITS:
 
 ## LICENSE:
